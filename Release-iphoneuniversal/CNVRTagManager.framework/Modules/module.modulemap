@@ -1,0 +1,11 @@
+framework module CNVRTagManager {
+  umbrella header "CNVRTagManager.h"
+
+  export *
+  module * { export * }
+}
+
+module CNVRTagManager.Swift {
+    header "CNVRTagManager-Swift.h"
+    requires objc
+}
