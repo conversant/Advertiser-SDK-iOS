@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/CNVRTagManager-Swift.h</key>
 		<data>
-		8yfF/Wbr6GGCfAcoalZ4moxr9/A=
+		7yPcRz3hr+PNkrPelat7sYfOvRQ=
 		</data>
 		<key>Headers/CNVRTagManager.h</key>
 		<data>
@@ -26,23 +26,23 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Mi26uxpx26h8d5tL7siv8Wp5NHg=
+		xVzM6Juy7ZFxattwo5CWME/4CkY=
 		</data>
 		<key>Modules/CNVRTagManager.swiftmodule/i386.swiftdoc</key>
 		<data>
-		16uh6165ao19aUbmi9DgroW7Fho=
+		QfevQ2SeQ2R4h3DWjzwdQeBWKDU=
 		</data>
 		<key>Modules/CNVRTagManager.swiftmodule/i386.swiftmodule</key>
 		<data>
-		mC/nmln30MkBcdKEtEpX07OGIPo=
+		S7gInLLtt8p/0LQZaOg304ICGKQ=
 		</data>
 		<key>Modules/CNVRTagManager.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		yLH4KmjUUTjNCvCrAjPh9AUMjzo=
+		EPY7CJcDJVqL5M32HBIOhoCbU24=
 		</data>
 		<key>Modules/CNVRTagManager.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		iK5ZWcXuXzJS/GsRrZ1TVDpCenM=
+		kJG7J27QkpFWmL+yZXGPnIqrtPw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -100,11 +100,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8yfF/Wbr6GGCfAcoalZ4moxr9/A=
+			7yPcRz3hr+PNkrPelat7sYfOvRQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			tM5I/IDZQvNKVZ58vX08tpso65XWrobhCcIXG+rjUj8=
+			wzOyeKCfdmyQoprIIldD9XYMbop/tGbaOJleOQwJAb4=
 			</data>
 		</dict>
 		<key>Headers/CNVRTagManager.h</key>
@@ -122,44 +122,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			16uh6165ao19aUbmi9DgroW7Fho=
+			QfevQ2SeQ2R4h3DWjzwdQeBWKDU=
 			</data>
 			<key>hash2</key>
 			<data>
-			E572Dvu/NxA4WS/HspmJinq4VJUu8z3TET9zX/RvUXA=
+			dPTw/ZADOpDqyWiRSFhhdv3fI8ZT1ny/N5DwU1JLDrU=
 			</data>
 		</dict>
 		<key>Modules/CNVRTagManager.swiftmodule/i386.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mC/nmln30MkBcdKEtEpX07OGIPo=
+			S7gInLLtt8p/0LQZaOg304ICGKQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			6CsNSWWJI3PILfJMhPzMU2v/wBxlzOTn4qZC1Qx02TE=
+			TDkr5kQ1aDR9gUDpgK0N7nrXqVB/phHw8PLMmarjOw8=
 			</data>
 		</dict>
 		<key>Modules/CNVRTagManager.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yLH4KmjUUTjNCvCrAjPh9AUMjzo=
+			EPY7CJcDJVqL5M32HBIOhoCbU24=
 			</data>
 			<key>hash2</key>
 			<data>
-			RE2Vjp6LR10HxEa/fXQdcPBWn5SXqT8aSQ4AYfl+/v0=
+			BTHrG8vI/ZaT7Yi57nXRKDq3WknVgyg+xVeyAF3b2hA=
 			</data>
 		</dict>
 		<key>Modules/CNVRTagManager.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iK5ZWcXuXzJS/GsRrZ1TVDpCenM=
+			kJG7J27QkpFWmL+yZXGPnIqrtPw=
 			</data>
 			<key>hash2</key>
 			<data>
-			V/QkVKvNwvcvx87rEgtvMauKcAldp2T0L7U7yddng4U=
+			QyrDsUuVfEo8GM0mIjJRl5g4xh4adyXvzBW/ujErQTs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
