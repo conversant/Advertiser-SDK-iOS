@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/CNVRTagManager-Swift.h</key>
 		<data>
-		7yPcRz3hr+PNkrPelat7sYfOvRQ=
+		7NvAxQpozVXvc8gbiEOlrGcJVpU=
 		</data>
 		<key>Headers/CNVRTagManager.h</key>
 		<data>
@@ -26,23 +26,23 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		xVzM6Juy7ZFxattwo5CWME/4CkY=
+		aqUwBXu+kM0W/w/wJBevX/ACvIs=
 		</data>
 		<key>Modules/CNVRTagManager.swiftmodule/i386.swiftdoc</key>
 		<data>
-		QfevQ2SeQ2R4h3DWjzwdQeBWKDU=
+		TXq32hWRSa+i/iZ9hpYWAi9+/yE=
 		</data>
 		<key>Modules/CNVRTagManager.swiftmodule/i386.swiftmodule</key>
 		<data>
-		S7gInLLtt8p/0LQZaOg304ICGKQ=
+		6zniKRdQnMyygrTCanU2yuqzq+M=
 		</data>
 		<key>Modules/CNVRTagManager.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		EPY7CJcDJVqL5M32HBIOhoCbU24=
+		z7oQn1DW0k2r5PBUH9IXJg6ZELs=
 		</data>
 		<key>Modules/CNVRTagManager.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		kJG7J27QkpFWmL+yZXGPnIqrtPw=
+		Y7DLaKMvtxTeURtvBXw7kq/kmQE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -100,11 +100,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7yPcRz3hr+PNkrPelat7sYfOvRQ=
+			7NvAxQpozVXvc8gbiEOlrGcJVpU=
 			</data>
 			<key>hash2</key>
 			<data>
-			wzOyeKCfdmyQoprIIldD9XYMbop/tGbaOJleOQwJAb4=
+			C3dTtQupv1uDMncYifPDrdq4oO7ejObKqgB1jTGrV4k=
 			</data>
 		</dict>
 		<key>Headers/CNVRTagManager.h</key>
@@ -122,44 +122,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QfevQ2SeQ2R4h3DWjzwdQeBWKDU=
+			TXq32hWRSa+i/iZ9hpYWAi9+/yE=
 			</data>
 			<key>hash2</key>
 			<data>
-			dPTw/ZADOpDqyWiRSFhhdv3fI8ZT1ny/N5DwU1JLDrU=
+			tFrjmuuUKw91MAg0O13CFO3zbrNPVLTj3zPn0c8B1sI=
 			</data>
 		</dict>
 		<key>Modules/CNVRTagManager.swiftmodule/i386.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			S7gInLLtt8p/0LQZaOg304ICGKQ=
+			6zniKRdQnMyygrTCanU2yuqzq+M=
 			</data>
 			<key>hash2</key>
 			<data>
-			TDkr5kQ1aDR9gUDpgK0N7nrXqVB/phHw8PLMmarjOw8=
+			YAjxVT+NeA5fVs1spV21rgzVAui3/WCiGHhShBF6sMg=
 			</data>
 		</dict>
 		<key>Modules/CNVRTagManager.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EPY7CJcDJVqL5M32HBIOhoCbU24=
+			z7oQn1DW0k2r5PBUH9IXJg6ZELs=
 			</data>
 			<key>hash2</key>
 			<data>
-			BTHrG8vI/ZaT7Yi57nXRKDq3WknVgyg+xVeyAF3b2hA=
+			7kFzoxMy35ZTwL+MsH6zudfs+jyMDOa2IQrYniDVZds=
 			</data>
 		</dict>
 		<key>Modules/CNVRTagManager.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kJG7J27QkpFWmL+yZXGPnIqrtPw=
+			Y7DLaKMvtxTeURtvBXw7kq/kmQE=
 			</data>
 			<key>hash2</key>
 			<data>
-			QyrDsUuVfEo8GM0mIjJRl5g4xh4adyXvzBW/ujErQTs=
+			T5BJemrSq2uPBPhLbQ4JoRqwC/5w+fS8DNjwuT/7KUU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -209,7 +209,7 @@
 	</dict>
 	<key>rules</key>
 	<dict>
-		<key>^</key>
+		<key>^.*</key>
 		<true/>
 		<key>^.*\.lproj/</key>
 		<dict>
@@ -240,24 +240,12 @@
 			<key>weight</key>
 			<real>11</real>
 		</dict>
-		<key>^</key>
-		<dict>
-			<key>weight</key>
-			<real>20</real>
-		</dict>
 		<key>^(.*/)?\.DS_Store$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
 			<real>2000</real>
-		</dict>
-		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^.*</key>
 		<true/>
@@ -293,13 +281,6 @@
 			<true/>
 			<key>weight</key>
 			<real>20</real>
-		</dict>
-		<key>^[^/]+$</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^embedded\.provisionprofile$</key>
 		<dict>
