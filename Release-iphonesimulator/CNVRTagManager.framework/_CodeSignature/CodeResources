@@ -6,7 +6,7 @@
 	<dict>
 		<key>EventDataModel.momd/EventDataModel.mom</key>
 		<data>
-		LOtGzVCHmubIMZzBTaWxaFv0hRo=
+		pcZ7CLwTfaDIwS9KLBvrcm+Dk0g=
 		</data>
 		<key>EventDataModel.momd/VersionInfo.plist</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/CNVRTagManager-Swift.h</key>
 		<data>
-		7NvAxQpozVXvc8gbiEOlrGcJVpU=
+		3gl1QR4nNCwDbhefL+Kab9TxYnc=
 		</data>
 		<key>Headers/CNVRTagManager.h</key>
 		<data>
@@ -26,23 +26,39 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		aqUwBXu+kM0W/w/wJBevX/ACvIs=
+		6kr6oiGeYNWhd/g8SmWQAQHEUhY=
+		</data>
+		<key>Modules/CNVRTagManager.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
+		<data>
+		oBg78dIwu5xjE8m7rH64qSJhRko=
+		</data>
+		<key>Modules/CNVRTagManager.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
+		<data>
+		Ea4KBAFYc7tnqUfuQzrEwEj++Lw=
 		</data>
 		<key>Modules/CNVRTagManager.swiftmodule/i386.swiftdoc</key>
 		<data>
-		TXq32hWRSa+i/iZ9hpYWAi9+/yE=
+		oBg78dIwu5xjE8m7rH64qSJhRko=
 		</data>
 		<key>Modules/CNVRTagManager.swiftmodule/i386.swiftmodule</key>
 		<data>
-		6zniKRdQnMyygrTCanU2yuqzq+M=
+		Ea4KBAFYc7tnqUfuQzrEwEj++Lw=
+		</data>
+		<key>Modules/CNVRTagManager.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		1DOQGb1eAU/8i4zYlKujQhtg/FE=
+		</data>
+		<key>Modules/CNVRTagManager.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		9SL/GQl7UtPSKqG3jxnCKSwA940=
 		</data>
 		<key>Modules/CNVRTagManager.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		z7oQn1DW0k2r5PBUH9IXJg6ZELs=
+		1DOQGb1eAU/8i4zYlKujQhtg/FE=
 		</data>
 		<key>Modules/CNVRTagManager.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		Y7DLaKMvtxTeURtvBXw7kq/kmQE=
+		9SL/GQl7UtPSKqG3jxnCKSwA940=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,11 +83,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LOtGzVCHmubIMZzBTaWxaFv0hRo=
+			pcZ7CLwTfaDIwS9KLBvrcm+Dk0g=
 			</data>
 			<key>hash2</key>
 			<data>
-			sMSNsc8y28KPKALnwyR0qAbh0/hd+C/q0hWrlVApOQo=
+			kaq1Xmo1ymIZjC/xbwRLYPMxeS12BKFyyeqy06Vcc9E=
 			</data>
 		</dict>
 		<key>EventDataModel.momd/VersionInfo.plist</key>
@@ -100,11 +116,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7NvAxQpozVXvc8gbiEOlrGcJVpU=
+			3gl1QR4nNCwDbhefL+Kab9TxYnc=
 			</data>
 			<key>hash2</key>
 			<data>
-			C3dTtQupv1uDMncYifPDrdq4oO7ejObKqgB1jTGrV4k=
+			Bu734whoo07cK7q+bFeoL+04j3Y8eMq0vBLDfCnvZYc=
 			</data>
 		</dict>
 		<key>Headers/CNVRTagManager.h</key>
@@ -118,48 +134,92 @@
 			/pdO3kQosQg0vtqGjVQSBqadYvo34oepTaNd238fxq0=
 			</data>
 		</dict>
+		<key>Modules/CNVRTagManager.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oBg78dIwu5xjE8m7rH64qSJhRko=
+			</data>
+			<key>hash2</key>
+			<data>
+			fAyo5SHAVztnfTea+o78KWiWIWmT4jFscjaeRESCy28=
+			</data>
+		</dict>
+		<key>Modules/CNVRTagManager.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ea4KBAFYc7tnqUfuQzrEwEj++Lw=
+			</data>
+			<key>hash2</key>
+			<data>
+			8Gx4u2uk6IyX/Twwzvp7hRfztC9U5nAJCnV27o6zE6o=
+			</data>
+		</dict>
 		<key>Modules/CNVRTagManager.swiftmodule/i386.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TXq32hWRSa+i/iZ9hpYWAi9+/yE=
+			oBg78dIwu5xjE8m7rH64qSJhRko=
 			</data>
 			<key>hash2</key>
 			<data>
-			tFrjmuuUKw91MAg0O13CFO3zbrNPVLTj3zPn0c8B1sI=
+			fAyo5SHAVztnfTea+o78KWiWIWmT4jFscjaeRESCy28=
 			</data>
 		</dict>
 		<key>Modules/CNVRTagManager.swiftmodule/i386.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6zniKRdQnMyygrTCanU2yuqzq+M=
+			Ea4KBAFYc7tnqUfuQzrEwEj++Lw=
 			</data>
 			<key>hash2</key>
 			<data>
-			YAjxVT+NeA5fVs1spV21rgzVAui3/WCiGHhShBF6sMg=
+			8Gx4u2uk6IyX/Twwzvp7hRfztC9U5nAJCnV27o6zE6o=
+			</data>
+		</dict>
+		<key>Modules/CNVRTagManager.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1DOQGb1eAU/8i4zYlKujQhtg/FE=
+			</data>
+			<key>hash2</key>
+			<data>
+			dRSSIxhGcYKpZzeevp9iH4xmHaSrOBP6/qFWQmjzl4w=
+			</data>
+		</dict>
+		<key>Modules/CNVRTagManager.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9SL/GQl7UtPSKqG3jxnCKSwA940=
+			</data>
+			<key>hash2</key>
+			<data>
+			doKoVMC/tdVM0gEnMFLoDgsdfbUdP21S+/BTtYD+NVM=
 			</data>
 		</dict>
 		<key>Modules/CNVRTagManager.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			z7oQn1DW0k2r5PBUH9IXJg6ZELs=
+			1DOQGb1eAU/8i4zYlKujQhtg/FE=
 			</data>
 			<key>hash2</key>
 			<data>
-			7kFzoxMy35ZTwL+MsH6zudfs+jyMDOa2IQrYniDVZds=
+			dRSSIxhGcYKpZzeevp9iH4xmHaSrOBP6/qFWQmjzl4w=
 			</data>
 		</dict>
 		<key>Modules/CNVRTagManager.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Y7DLaKMvtxTeURtvBXw7kq/kmQE=
+			9SL/GQl7UtPSKqG3jxnCKSwA940=
 			</data>
 			<key>hash2</key>
 			<data>
-			T5BJemrSq2uPBPhLbQ4JoRqwC/5w+fS8DNjwuT/7KUU=
+			doKoVMC/tdVM0gEnMFLoDgsdfbUdP21S+/BTtYD+NVM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
